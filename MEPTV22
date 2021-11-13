@@ -123,6 +123,8 @@ https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/pl
 #EXTINF: -1 CINEPREMIUM-logo = "https://institucional.cope.es/wp-content/uploads/2019/02/COPE.png" group-title = "RADIO ", COPE
 
 https://flucast-m04-06.flumotion.com/cope/net2.mp3
+#EXTINF: -1 CINEPREMIUM-logo = "https://cdn-profiles.tunein.com/s110106/images/logog.jpg?t=156199" group-title = "RADIO ", LA MEGA
+https://radiohdstreaming.com/radio/8010/mega
 #EXTINF: -1 CINEPREMIUM-logo = "https://cdn-profiles.tunein.com/s110106/images/logog.jpg?t=156199" group-title = "RADIO ", LA SUPREMA 96.1
 https://dattavolt.com/8150/stream
 #EXTINF: -1 CINEPREMIUM-logo = "https://lumiere-a.akamaihd.net/v1/images/outfit_domestic_teaser2_las_94429e25.jpeg" group-title = "CINE", CRUELLA
